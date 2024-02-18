@@ -1,0 +1,1666 @@
+,category
+0,CRM Software
+1,Project Management Software
+2,Expense Management Software
+3,Video Conferencing Software
+4,Online Backup Software
+5,E-Commerce Platforms
+6,Accounting Software
+7,ERP Systems
+8,Marketing Automation Software
+9,All Categories
+10,CRM
+11,Sales Compensation
+12,Contract Management
+13,E-Signature
+14,Sales Acceleration
+15,Sales Intelligence
+16,Account-Based Marketing
+17,Content Marketing
+18,Conversion Rate Optimization Tools
+19,Customer Data Platform (CDP)
+20,Demand Generation
+21,Digital Analytics
+22,Email Marketing
+23,Event Management
+24,Marketing Analytics
+25,Marketing Automation
+26,Personalization
+27,Public Relations (PR)
+28,SEO Tools
+29,SMS Marketing
+30,Social Media Marketing
+31,Technology Research Services
+32,Transactional Email
+33,Local Listing Management
+34,Business Intelligence
+35,Data Virtualization
+36,Drone Analytics
+37,Enterprise Search Software
+38,Insight Engines
+39,Predictive Analytics
+40,Statistical Analysis
+41,Text Analysis
+42,Time Series Intelligence
+43,Visitor Behavior Intelligence
+44,GIS
+45,PLM
+46,Building Design and Building Information Modeling (BIM)
+47,Civil Engineering Design
+48,General-Purpose CAD
+49,Mechanical Computer-aided Design (MCAD)
+50,PCB Design
+51,Sketching
+52,Team Collaboration
+53,Idea Management
+54,Meeting Management
+55,UCaaS Platforms
+56,Video Conferencing
+57,VoIP
+58,POS
+59,E-Merchandising
+60,Payment Gateways
+61,Review Management
+62,Subscription Management
+63,Brand Protection
+64,Drop Shipping
+65,E-Commerce Personalization
+66,Product Information Management (PIM)
+67,Retail Execution
+68,Shopping Cart
+69,Digital Asset Management
+70,Digital Experience Platforms (DXP)
+71,Enterprise Content Management (ECM)
+72,Headless CMS
+73,Knowledge Management
+74,Localization
+75,Mobile Forms Automation
+76,Translation Management
+77,Web Accessibility
+78,Web Content Management
+79,Help Desk
+80,Live Chat
+81,Customer Self-Service
+82,Social Customer Service
+83,Call &amp; Contact Center
+84,Conversational Support
+85,Customer Success
+86,Enterprise Feedback Management
+87,Experience Management
+88,Consent Management Platform (CMP)
+89,Data Privacy Management
+90,Data Subject Access Request (DSAR)
+91,Privacy Impact Assessment (PIA)
+92,Sensitive Data Discovery
+93,Video
+94,Cloud Platform as a Service (PaaS)
+95,Integrated Development Environments (IDE)
+96,Software Testing
+97,Application Development
+98,Game Development
+99,Software Development Analytics Tools
+100,Test Management
+101,Web Frameworks
+102,WebOps Platforms
+103,Bug Tracking
+104,Text Editor
+105,Application Release Orchestration
+106,Automation Testing
+107,Batch Management
+108,CI/CD Tools
+109,Containerization
+110,Source Code Management
+111,Click Fraud
+112,Cross-Channel Advertising
+113,Data Management Platform (DMP)
+114,Demand Side Platform (DSP)
+115,Display Advertising
+116,Mobile Advertising
+117,Other Digital Advertising
+118,Publisher Ad Management
+119,Retargeting
+120,Search Advertising
+121,Social Media Advertising
+122,Supply Side Platform (SSP)
+123,Video Advertising
+124,Procurement
+125,Discrete ERP
+126,Distribution ERP
+127,"Environmental, Quality and Safety Management"
+128,Industrial IoT
+129,Manufacturing Execution System
+130,Mixed Mode ERP
+131,Professional Services Automation
+132,"Project, Portfolio &amp; Program Management"
+133,Accounting
+134,Accounts Receivable
+135,AP Automation
+136,Billing
+137,CMMS
+138,Corporate Performance Management (CPM)
+139,Enterprise Asset Management (EAM)
+140,Financial Close
+141,Invoice Management
+142,Travel &amp; Expense
+143,Anti Money Laundering
+144,Audit Management
+145,Enterprise Risk Management (ERM)
+146,Ethics and Compliance Learning
+147,Policy Management
+148,Third Party &amp; Supplier Risk Management
+149,Content Delivery Network (CDN)
+150,Domain Registration
+151,Enterprise Content Delivery Network (eCDN)
+152,Managed DNS Providers
+153,Web Hosting
+154,Human Resource Management Systems
+155,Core HR
+156,Benefits Administration
+157,Workforce Management
+158,Time Tracking
+159,Staffing
+160,Employee Monitoring
+161,Video Interviewing
+162,Performance Management
+163,Employee Engagement
+164,Compensation Management
+165,Employee Recognition
+166,Job Search Sites
+167,Corporate Learning Management Systems
+168,Recruitment Marketing
+169,Applicant Tracking Systems (ATS)
+170,Course Authoring
+171,Learning Experience Platforms (LXP)
+172,Infrastructure as a Service (IaaS)
+173,AIOps Platforms
+174,Blockchain
+175,Database Software
+176,Data Integration Tools
+177,Data Warehouse
+178,Load Balancing
+179,Master Data Management (MDM)
+180,Monitoring
+181,Storage Management
+182,Virtual Desktop Infrastructure (VDI)
+183,Virtual Private Cloud (VPC)
+184,Cloud Management Platforms
+185,Data Recovery
+186,Enterprise IT Management
+187,Enterprise Mobility Management
+188,Incident Management
+189,IT Asset Management
+190,Mobile Device Management (MDM)
+191,Process Automation
+192,Service Desk
+193,Workload Automation
+194,Document Creation
+195,Meeting Room Booking Systems
+196,Presentation
+197,Survey
+198,Cloud Security
+199,System Security
+200,Application Security
+201,Confidentiality
+202,Data Security
+203,Email Security
+204,Endpoint Protection
+205,Identity Management
+206,Network Security
+207,Vulnerability Management
+208,Web Security
+209,Log Analysis
+210,Software Composition Analysis
+211,Demand Planning
+212,Shipping
+213,Fleet Management
+214,Transportation Management Systems (TMS)
+215,Construction
+216,Education
+217,Financial Services
+218,Health Care
+219,Legal
+220,Nonprofit
+221,Transportation
+222,Other Religious Institutions
+223,Business Filing and Licensing
+224,Business Finance
+225,HR Services
+226,Legal Services
+227,Management Consulting
+228,Sales Consulting
+229,Sales Training
+230,Adobe Consulting Services
+231,AWS Consulting Services
+232,Braze Consulting Services
+233,Ceridian Consulting Services
+234,Citrix Consulting Services
+235,Genesys Consulting Services
+236,Google Consulting Services
+237,HubSpot Consulting Services
+238,IBM Consulting Services
+239,Infor Consulting Services
+240,Microsoft Consulting Services
+241,NetSuite Consulting Services
+242,Oracle Consulting Services
+243,Salesforce Consulting Services
+244,SAP Consulting Services
+245,ServiceNow Consulting Services
+246,UKG Consulting Services
+247,Workday Consulting Services
+248,Branding Agencies
+249,Event Management Services
+250,Inbound Marketing
+251,Lead Generation Services
+252,Marketing Automation Consulting
+253,Marketing Strategy
+254,Outbound Marketing
+255,PR Firms
+256,Reputation Management Services
+257,IT Outsourcing
+258,"ITSM Tool Implementation, Consulting, and Managed Services"
+259,Other B2B Services
+260,Cloud Migration Services
+261,Development Services
+262,Implementation Services
+263,Managed IT Services
+264,Managed Services
+265,Solution Consulting
+266,Application Security Services
+267,Data Security Services
+268,Email Security Services
+269,Endpoint Security Services
+270,Incident Response Services
+271,IoT Security Services
+272,IT Compliance Services
+273,Network Security Services
+274,Threat Hunting Services
+275,Threat Intelligence Services
+276,Vulnerability Assessment Services
+277,On-Demand Staffing Services
+278,Other Staffing Services
+279,Recruitment Agencies
+280,Staffing Agencies
+281,Closed Captioning Services
+282,Interpretation
+283,Localization Services
+284,Multilingual Desktop Publishing
+285,Transcription Services
+286,Translation
+287,Acumatica Channel Partners
+288,Adobe Channel Partners
+289,Autodesk Channel Partners
+290,Cisco Channel Partners
+291,Deltek Channel Partners
+292,Epicor Channel Partners
+293,Infor Channel Partners
+294,Microsoft Channel Partners
+295,Oracle Channel Partners
+296,Other VARs
+297,Qlik Channel Partners
+298,Sage Channel Partners
+299,Salesforce Channel Partners
+300,SAP Channel Partners
+301,Retail Analytics
+302,Other Analytics
+303,Other Development
+304,User Research Repositories
+305,Data De-Identification
+306,Data Masking
+307,Relational Databases
+308,Desktop Database
+309,Financial Analytics
+310,Real-time Analytic Database
+311,Vector Database
+312,Time Series Databases
+313,Big Data Processing and Distribution
+314,Big Data Analytics
+315,Database as a Service (DBaaS)
+316,Other Recruiting
+317,Data Breach Notification
+318,Analytics Platforms
+319,Brokerage Trading Platforms
+320,Service Virtualization
+321,Continuous Integration
+322,WordPress Management Tools
+323,AWS Marketplace
+324,Data Governance
+325,Machine Learning Data Catalog
+326,Freight Management
+327,Supply Chain Visibility
+328,Remote Support
+329,Webinar
+330,Online Community Management
+331,Virtual Event Platforms
+332,Screen Sharing
+333,Salesforce AppExchange Apps
+334,Asset Performance Management
+335,Online Backup
+336,ETL Tools
+337,On-Premise Data Integration
+338,iPaaS
+339,Reverse ETL
+340,Real Estate Investment Management
+341,Property Intelligence
+342,Data Quality
+343,Publisher Ad Server
+344,Component Content Management Systems
+345,Financial Services CRM
+346,Child Care
+347,Marina Management
+348,Waste Management
+349,Police Records Management System (RMS)
+350,LIMS
+351,Electronic Lab Notebook (ELN)
+352,Scientific Data Management System (SDMS)
+353,Pharma and Biotech
+354,Healthcare Commercial Intelligence
+355,Healthcare Payer Care Management Workflow Applications
+356,Provider Data Management (PDM)
+357,Healthcare Compliance
+358,Customer Journey Analytics
+359,AI Sales Assistant
+360,Buyer Intent Data Providers
+361,Robotic Process Automation (RPA)
+362,Synthetic Data
+363,Data Extraction
+364,File Migration
+365,Talent Intelligence
+366,Address Verification
+367,Real Estate Activities Management
+368,Brokerage Management
+369,Data Visualization
+370,Competitive Intelligence
+371,Digital Customer Onboarding
+372,Through-Channel Marketing
+373,Diversity Recruiting
+374,Recruiting Automation
+375,Freelance Platforms
+376,Contractor Management
+377,Business Instant Messaging
+378,Payment Processing
+379,File Converter
+380,Location Intelligence
+381,Chatbots
+382,Low-Code Development Platforms
+383,IT Service Management (ITSM) Tools
+384,Business Process Management
+385,Cloud File Security
+386,Cloud Data Security
+387,Cloud Workload Protection Platforms
+388,Privileged Access Management (PAM)
+389,Identity and Access Management (IAM)
+390,User Provisioning and Governance Tools
+391,Self-Service Password Reset (SSPR)
+392,Field Service Management
+393,Other Video
+394,Other CAD
+395,Social Media Analytics
+396,Donor Management
+397,Fundraising
+398,Nonprofit CRM
+399,IoT Device Management Platforms
+400,IoT Connectivity Management
+401,E-Commerce Analytics
+402,Sales Tax and VAT Compliance
+403,Corporate Tax
+404,IoT Platforms
+405,Google Workspace Office Tools
+406,Google Workspace Administration
+407,Google Workspace for Marketing
+408,Lead Capture
+409,Continuous Delivery
+410,Personalization Engines
+411,App Monetization Platforms
+412,Sales Performance Management
+413,Insurance Agency Management Systems
+414,Data Science and Machine Learning Platforms
+415,Document Databases
+416,Digital Marketing
+417,Traditional Advertising
+418,Email Marketing Services
+419,Mobile Development Frameworks
+420,JavaScript Web Frameworks
+421,Component Libraries
+422,Stream Analytics
+423,Audience Intelligence Platforms
+424,XML Databases
+425,Enterprise Information Archiving
+426,Enterprise Monitoring
+427,Database Monitoring
+428,Digital Experience Monitoring (DEM)
+429,Cloud Infrastructure Monitoring
+430,IT Alerting
+431,Container Monitoring
+432,Application Performance Monitoring (APM)
+433,Database Management Systems (DBMS)
+434,HR Analytics
+435,Trucking
+436,Big Data Integration Platforms
+437,Data Fabric
+438,Message Queue (MQ)
+439,Database Backup
+440,Server Backup
+441,Project Management
+442,Container Orchestration
+443,Online Marketplace Optimization Tools
+444,E-Commerce Data Integration
+445,Multichannel Retail
+446,Disaster Recovery as a Service (DRaaS)
+447,File Recovery
+448,Endpoint Management
+449,Mobile Data Security
+450,Remote Monitoring \u0026 Management (RMM)
+451,Hard Drive Cloning
+452,Rack Servers
+453,Cloud Content Collaboration
+454,Data Center Infrastructure Management (DCIM)
+455,Push-To-Talk (PTT)
+456,Other Marketing
+457,Network Traffic Analysis (NTA)
+458,Network Management Tools
+459,Client Portal
+460,IoT Development Tools
+461,Sales Engagement
+462,Lead Intelligence
+463,Data as a Service (DaaS)
+464,Security Compliance
+465,Cloud Security Posture Management (CSPM)
+466,Cloud Compliance
+467,AI Writing Assistant
+468,Farm Management
+469,Business Intelligence (BI) Consulting
+470,Mentoring
+471,Medical Practice Management
+472,Veterinary Practice Management
+473,Catalog Management
+474,Tag Management Systems
+475,Lead Retrieval
+476,Taxi \u0026 Limousine
+477,Travel Agency
+478,Aviation MRO
+479,Digital Forensics
+480,User and Entity Behavior Analytics (UEBA)
+481,Repository Management
+482,Google Workspace Creative Tools
+483,Website Builder
+484,Volunteer Management
+485,Grant Management
+486,Nonprofit Accounting
+487,Ad Network
+488,Service Mesh Tools
+489,Process Mining
+490,Data Center Infrastructure
+491,Amazon Web Services Channel Partners
+492,Location-Based Marketing
+493,Reference Management
+494,Parking Management
+495,Retail POS
+496,Seed to Sale Software
+497,Cookie Tracking
+498,Colocation Hosting
+499,Dedicated Hosting
+500,Cloud Hosting
+501,URL Shortener
+502,Affiliate Marketing
+503,Partner Ecosystem Platforms
+504,Data-Centric Security
+505,Other Privacy
+506,Mobile Application Management
+507,Unified Endpoint Management (UEM)
+508,Website Security
+509,Construction ERP
+510,Event Registration \u0026 Ticketing
+511,Event Planning
+512,Healthcare Analytics
+513,Public Transportation
+514,Promotional Product Management
+515,Direct Mail Automation
+516,Marketing Resource Management
+517,Print Management
+518,3D Parts Catalog
+519,Pay Equity
+520,Object Storage Solutions
+521,Block Storage
+522,Cloud File Storage
+523,Email Encryption
+524,Encryption
+525,Database Security
+526,Embedded Business Intelligence
+527,Web Application Firewall (WAF)
+528,File Transfer Protocol (FTP)
+529,Managed File Transfer (MFT)
+530,Car Dealer
+531,Budgeting and Forecasting
+532,Observability Solution Suites
+533,Server Monitoring
+534,Log Monitoring
+535,Website Monitoring
+536,Network Monitoring
+537,Global Trade Management
+538,Subscription Analytics
+539,Mobile App Analytics
+540,Subscription Revenue Management
+541,Reference Check
+542,Talent Assessment
+543,ServiceNow Store Apps
+544,Fraud Detection
+545,E-commerce Fraud Protection
+546,Bot Detection and Mitigation
+547,Construction Project Management
+548,Construction CRM
+549,Bid Management
+550,Construction Accounting
+551,Construction Data Analytics
+552,Construction Estimating
+553,Jobsite Management
+554,Other Process Automation
+555,Conversation Intelligence
+556,Sales Coaching
+557,Virtual Private Servers (VPS)
+558,Talent Marketplace Platforms
+559,Lead Mining
+560,Account Data Management
+561,Marketing Account Intelligence
+562,Catering
+563,Feedback Analytics
+564,Project and Portfolio Management
+565,Resource Management
+566,Anaplan Partners
+567,Robotic Process Automation (RPA) Consultancy Services
+568,IBM Security VARs
+569,IBM Server VARs
+570,Oracle Database Resellers
+571,Oracle Siebel Resellers
+572,Oracle Primavera Resellers
+573,Oracle Hyperion Resellers
+574,Oracle Fusion Applications Resellers
+575,Oracle PeopleSoft Resellers
+576,Oracle JD Edwards EnterpriseOne Resellers
+577,Oracle E-Business Suite Resellers
+578,Oracle Cloud Application Resellers
+579,Pegasystems Consulting
+580,Other Implementation Services
+581,Cloud Consulting
+582,Business VPN
+583,Zero Trust Networking
+584,Market Research Services
+585,Data Loss Prevention (DLP)
+586,PC Backup
+587,SaaS Backup
+588,Auto Scaling
+589,Cloud Migration Assessment Tools
+590,Cloud Cost Management
+591,Diagramming
+592,Collaborative Whiteboard
+593,Visual Collaboration Platforms
+594,Data Replication
+595,Disaster Recovery
+596,App Store Optimization
+597,Mobile Marketing
+598,Gamification
+599,Contact Center Workforce
+600,Contact Center Quality Assurance
+601,Intelligent Virtual Assistants
+602,Application Shielding
+603,Runtime Application Self-Protection (RASP)
+604,OCR
+605,Intelligent Document Processing (IDP)
+606,Event Stream Processing
+607,Other IoT
+608,Email Deliverability
+609,Email Template Builder
+610,Endpoint Detection \u0026 Response (EDR)
+611,Extended Detection and Response (XDR) Platforms
+612,Incident Response
+613,Antivirus
+614,Endpoint Protection Suites
+615,Endpoint Protection Platforms
+616,Network Sandboxing
+617,Hyperconverged Infrastructure (HCI) Solutions
+618,Other Web Frameworks
+619,Insurance Analytics
+620,Connected Worker Platform
+621,SAP Store
+622,Store Locator
+623,Digital Transformation Consulting
+624,Inventory Control
+625,Data Destruction
+626,Market Intelligence
+627,Other HR
+628,Technical Skills Development
+629,Capital Project Management
+630,Facility Management
+631,Document Scanning
+632,Other Health Care Operations
+633,Contract Lifecycle Management (CLM)
+634,Supplier Relationship Management (SRM)
+635,Content Analytics
+636,Digital Advertising Intelligence
+637,Enterprise Legal Management (ELM)
+638,Remote Desktop
+639,Conversational Marketing
+640,eDiscovery
+641,Auto Repair
+642,Data Visualization Libraries
+643,Python Web Frameworks
+644,Machine Learning
+645,Emergency Notification
+646,Proactive Notification
+647,Communication Platform as a Service
+648,Managed Hosting
+649,Backup Solution Suites
+650,Container Management
+651,Spreadsheets
+652,E-Commerce Tools
+653,Other Sales
+654,Accounts Payable (AP) and Spend Analysis
+655,Spend Management
+656,Purchasing
+657,Procure to Pay
+658,Strategic Sourcing
+659,Visitor Identification
+660,Financial Data APIs
+661,Graph Databases
+662,Skills Management
+663,Career Management
+664,API Design
+665,Document Generation
+666,IoT Implementation Services
+667,IoT Consulting Services
+668,Software Developer Services
+669,Data Governance Services
+670,Artificial Intelligence Consulting
+671,Supply Chain Strategy and Operations Consulting
+672,Testing and QA
+673,IT Strategy Consulting
+674,Candidate Relationship Management
+675,Data Center Networking
+676,Regulatory Change Management
+677,WordPress Hosting
+678,MLOps Platforms
+679,Electronic Data Capture (EDC)
+680,Database Comparison
+681,Predictive Maintenance
+682,Terminal Emulator
+683,Expense Management
+684,Mileage Tracking
+685,Sales Analytics
+686,Data Preparation
+687,Cloud Edge Security
+688,Cloud Access Security Broker (CASB)
+689,Secure Web Gateways
+690,SaaS Security Posture Management (SSPM) Solutions
+691,Real Estate CRM
+692,User Research
+693,Credit and Collections
+694,M\u0026A Software
+695,Financial Research
+696,Data Labeling
+697,Active Learning Tools
+698,Image Recognition
+699,Identity Verification
+700,Biometric Authentication
+701,Age Verification
+702,Social Media Listening Tools
+703,Brand Intelligence
+704,Media Monitoring
+705,Identity Resolution
+706,Product Data Management (PDM)
+707,Engineering Document Management
+708,Other Social Media
+709,Tools for ERP
+710,CAD Viewers
+711,Hatchbuck Agency Partners
+712,Listrak Consulting
+713,Security Information and Event Management (SIEM)
+714,Managed Security Services (MSSP)
+715,Network Security Policy Management (NSPM)
+716,Software-Defined Perimeter (SDP)
+717,Procore App Marketplace Partners
+718,Business Process Management (BPM) Services
+719,UKG Consulting
+720,Twilio Consulting
+721,IT Infrastructure Utility Services
+722,Ruby on Rails Developers
+723,iOS Developers
+724,Cross-Platform Developers
+725,IT Infrastructure Consulting
+726,Account-Based Web and Content Experiences
+727,Account-Based Advertising
+728,Account-Based Orchestration Platforms
+729,Account-Based Analytics
+730,Sales Enablement
+731,Recruitment Marketing Agencies
+732,Email Tracking
+733,Desk Booking
+734,Digital Wayfinding
+735,Space Management
+736,No-Code Development Platforms
+737,Autodesk Construction Cloud Integration Partners
+738,Sage Intacct Channel Partners
+739,Restaurant POS
+740,Retail Management Software
+741,Intrusion Detection and Prevention Systems (IDPS)
+742,Firewall Software
+743,Other Finance \u0026 Insurance
+744,Cybersecurity Consulting
+745,Virtual Data Room
+746,Spa and Salon Management
+747,Hotel Management
+748,Cloud Migration
+749,Email Backup
+750,Service Discovery
+751,Data Center Security Solutions
+752,Asset Tracking
+753,AI Chatbots
+754,Inspection Management
+755,Online Form Builder
+756,Sales Acceleration Platforms
+757,Email Verification
+758,Outbound Call Tracking
+759,Lease Administration
+760,Property Management
+761,Community Association Management
+762,Lab Inventory Management
+763,A/B Testing
+764,User-Generated Content
+765,Social Commerce Platforms
+766,E-Commerce Search
+767,Other Product Suites
+768,Sales Gamification
+769,Content Creation
+770,Plagiarism Checker
+771,Risk-Based Vulnerability Management
+772,Database DevOps Software
+773,SQL Integrated Development Environments (IDE)
+774,Electronic Data Interchange (EDI)
+775,Enterprise Service Bus (ESB)
+776,Financial Analysis
+777,Vulnerability Scanner
+778,Exposure Management Platforms
+779,Attack Surface Management
+780,Donor Prospect Research
+781,Task Management
+782,Threat Intelligence
+783,Earned Value Management
+784,Project Collaboration
+785,Event Management Platforms
+786,Mobile Event Apps
+787,Event Networking and Matchmaking
+788,Bookmark Manager
+789,Customer Success Training
+790,Payroll
+791,Human Services
+792,DataOps Platforms
+793,Data Observability
+794,Web Server Accelerator
+795,Loyalty Management
+796,Warranty Management
+797,Digital Learning Platforms
+798,Assessment
+799,Other Finance \u0026 Admin.
+800,Active Metadata Management
+801,Patient Intake
+802,Patient Engagement
+803,Disease Management
+804,Proactive Customer Retention
+805,Decision Management Platforms
+806,AI Meeting Assistants
+807,Vector Graphics
+808,Other Non-Relational Databases
+809,Onboarding
+810,Corporate Wellness
+811,Hardware Monitoring
+812,Rebate Management
+813,Data Exchange Platforms
+814,Blockchain as a Service
+815,Connected Car
+816,Systems Engineering And MBSE
+817,Enterprise Payment
+818,Occupational Health and Safety (OHS)
+819,Travel \u0026 Expense Management
+820,Travel Management
+821,Digital Adoption Platform
+822,Sales \u0026 Ops Planning
+823,Supply Chain Planning
+824,Supply Chain Cost-To-Serve Analytics
+825,Supply Chain Suites
+826,Genesys AppFoundry Marketplace
+827,Secure Access Service Edge (SASE) Platforms
+828,Product Analytics
+829,Auction
+830,Insider Threat Management (ITM)
+831,Business Continuity Management
+832,Third Party \u0026 Supplier Risk Management
+833,Operational Risk Management
+834,Cloud-Native Application Protection Platform (CNAPP)
+835,API Security
+836,Cloud Security Monitoring and Analytics
+837,Container Security
+838,Cloud Detection and Response (CDR)
+839,Key Value Databases
+840,Admission-Based Nonprofit
+841,UAV
+842,Desktop as a Service (DaaS)
+843,K-12 Student Information Systems
+844,Integration Brokerage
+845,Data Extraction Services
+846,IT Risk Management
+847,Whistleblowing
+848,Employee Intranet
+849,AI Content Detectors
+850,Computer-Aided Manufacturing (CAM)
+851,Revenue Cycle Management
+852,Healthcare Claims Management
+853,Medical Billing
+854,EHR
+855,Voice Recognition
+856,Financial Predictive Analytics
+857,Privacy Policy Generator
+858,Vendor Security and Privacy Assessment
+859,Revenue Operations \u0026 Intelligence (RO\u0026I)
+860,Attribution
+861,Operating System
+862,Virtual Workspaces
+863,Customer Service Automation
+864,Email
+865,Pricing
+866,Retail Pricing
+867,Workflow Management
+868,Productivity Bots
+869,Single Sign-On (SSO)
+870,Disclosure Management
+871,"Environmental, Social, and Governance (ESG) Reporting"
+872,Real Estate Marketing
+873,HR Compliance
+874,Time \u0026 Attendance
+875,Ride Sharing
+876,Visitor Management
+877,Hybrid Enablement
+878,Content Experience Platforms
+879,Landing Page Builders
+880,Construction Drawing Management
+881,Airline Reservations
+882,Financial Audit
+883,WAN Optimization
+884,Local SEO
+885,Online Reputation Management
+886,Social Media Management
+887,Multi-Location Marketing Platforms
+888,Stock Photos
+889,Contract Analytics
+890,Demo Automation
+891,Event Marketing
+892,Influencer Marketing Platforms
+893,Barcode
+894,Media and Influencer Targeting
+895,PR Analytics
+896,Partner Management
+897,Channel Incentives Management (CIM) 
+898,Data Management Suites
+899,Retail Intelligence
+900,"Security Orchestration, Automation, and Response (SOAR)"
+901,Multi-Factor Authentication (MFA)
+902,Object-Oriented Databases
+903,Structured Data Archiving and Application Retirement
+904,Unified Workspaces
+905,Environmental Health and Safety
+906,Other Event Management
+907,Telecom Expense Management (TEM) Services
+908,Order Management
+909,Wireless Expense Management (WEM)
+910,Standard Operating Procedures
+911,Medical QMS
+912,Quality Management (QMS)
+913,Live Commerce
+914,Push Notification
+915,Customer Communications Management
+916,Unified APIs
+917,Embedded Integration Platforms
+918,Workforce Planning
+919,Org Chart
+920,IP Address Intelligence
+921,Application Development Platforms
+922,Content Distribution
+923,Owned Media
+924,Fleet Tracking
+925,Transcription
+926,Penetration Testing Services
+927,HR Case Management
+928,Admissions and Enrollment Management
+929,Camp Management
+930,Tour Operator
+931,Lead-to-Account Matching and Routing
+932,Document Management
+933,Special Education
+934,Learning Management System (LMS)
+935,Multiple Listing Service (MLS)
+936,Supervisory Control and Data Acquisition (SCADA)
+937,Succession Planning
+938,Native Advertising
+939,Drug Testing
+940,SEO Services
+941,PPC Services
+942,IoT Analytics Platforms
+943,Bookkeeping Services
+944,Tax Services
+945,Accounting Firms
+946,Auditing Services
+947,Data Privacy Services
+948,IT Resilience Orchestration Automation (ITRO)
+949,Political Campaign
+950,Other Hospitality
+951,Other IT Infrastructure
+952,Pop-Up Builder
+953,Password Manager
+954,Email Anti-spam
+955,Browser
+956,Proofreading
+957,Manufacturing Intelligence
+958,Virtual Mailbox
+959,Guest Wi-Fi Providers
+960,Mortgage Point of Sale (POS)
+961,Enterprise Performance Management (EPM) Consultants
+962,Penetration Testing
+963,Email Management
+964,Shared Inbox
+965,Email Client
+966,Employee Communications
+967,Intelligent Email Protection
+968,Cloud Email Security
+969,Field Sales
+970,Data Mapping
+971,Simulation \u0026 CAE
+972,Subscription Billing
+973,Hotel Revenue Management Systems (RMS)
+974,Channel Management
+975,Dental Practice Management
+976,Gaming Tools
+977,Android Developers
+978,Windows Developers
+979,Internet of Things (IoT) Developers
+980,.NET Developers
+981,JavaScript Developers
+982,Java Development
+983,Node.js Developers
+984,Sitecore Developers
+985,PHP Developers
+986,Contact Center Consulting
+987,Sustainability Management
+988,Other Laboratory
+989,Value-Based Performance Management Analytics
+990,Legal Case Management
+991,Other Reservations
+992,3D Rendering
+993,Evidence Management
+994,Photo Editing
+995,Photogrammetry
+996,Retail Assortment Planning
+997,Other Office
+998,Church Management
+999,Strategy and Innovation Roadmapping Tools
+1000,Product Management
+1001,API Management
+1002,Mobile App Optimization
+1003,Computer-Assisted Translation
+1004,Software Localization Tools
+1005,Business Process Simulation
+1006,Digital Twin
+1007,Customer Education
+1008,eLearning Content
+1009,Online Course Providers
+1010,Microlearning Platforms
+1011,Other Cloud Integration
+1012,Creative Management Platforms
+1013,Objectives and Key Results (OKR)
+1014,Browser Isolation
+1015,Customer Journey Mapping
+1016,Wide Column Database
+1017,IoT Security Solutions
+1018,OT Secure Remote Access
+1019,Public Works
+1020,Prototyping
+1021,Revenue Management
+1022,Marketing Platforms
+1023,Background Check
+1024,DMARC
+1025,Email Testing
+1026,Job Description Management
+1027,Payment Analytics
+1028,Heatmap Tools
+1029,Clinical Trial Management Systems
+1030,Session Replay
+1031,Cloud Data Integration
+1032,Managed Print Services
+1033,Other Microsoft Resellers
+1034,Other Cisco Resellers
+1035,Cisco Unified Communications Resellers
+1036,Cisco Data Center Resellers
+1037,Cisco Cloud Resellers
+1038,API Platforms
+1039,Retail Space Planning
+1040,Trade Promotion Management
+1041,Retail Task Management
+1042,Speech Analytics
+1043,Proxy Network
+1044,Pharmacy Management Systems
+1045,Pharmacy POS Systems
+1046,Hybrid Cloud Storage Solutions
+1047,Punch List
+1048,Customer Revenue Optimization
+1049,Other Lead Generation
+1050,Container Registry
+1051,Tool Tracking
+1052,Network Automation Tools
+1053,SD-WAN
+1054,3D Modeling
+1055,Microsoft Dynamics 365 Business Central Resellers
+1056,Microsoft Dynamics NAV Resellers
+1057,Other Email
+1058,Classroom Management
+1059,AR Visualization
+1060,Strategic Planning and Execution
+1061,Dark Web Monitoring
+1062,Investigation Management
+1063,Runtime
+1064,Encryption Key Management
+1065,Digital Process Automation (DPA)
+1066,Auto Dialer
+1067,Consumer Video Feedback
+1068,Social Media Suites
+1069,Technology Scouting
+1070,Team Building
+1071,Drag and Drop App Builder
+1072,Geofencing
+1073,Mobile Backend-as-a-Service (mBaaS)
+1074,Inbound Call Tracking
+1075,Legal Hold
+1076,Business Activity Monitoring
+1077,Secrets Management Tools
+1078,Investment Portfolio Management
+1079,Population Health Management
+1080,Last Mile Delivery
+1081,Malware Analysis Tools
+1082,Other IT Management
+1083,Restaurant Delivery/Takeout
+1084,Legal Document Drafting
+1085,Natural Language Generation (NLG)
+1086,Secure Email Gateway
+1087,Network Attached Storage (NAS)
+1088,Value Stream Management
+1089,Sage Fixed Assets Resellers
+1090,Sage 500 Resellers
+1091,Sage 100 Resellers
+1092,Disinformation Detection Tools
+1093,Employee Identity Theft Protection
+1094,Omnichannel Commerce
+1095,Retail Distributed Order Management Systems
+1096,Big Data
+1097,Digital Signage
+1098,Software Asset Management Tools
+1099,MEP
+1100,Emergency Medical Services
+1101,Lead Scoring
+1102,Enterprise App Store
+1103,Construction Risk Assessment Software
+1104,Generative AI Infrastructure
+1105,Peer Code Review
+1106,Entity Management
+1107,Salesforce CRM Document Generation
+1108,Cloud Infrastructure Entitlement Management (CIEM)
+1109,Box Office
+1110,Multi-Country Payroll
+1111,PEO Providers
+1112,Version Control Clients
+1113,Version Control Hosting
+1114,Version Control Software
+1115,Dynamic Application Security Testing (DAST)
+1116,Interactive Application Security Testing (IAST)
+1117,OTT Platforms
+1118,Loan Origination
+1119,Loan Servicing
+1120,Loan Pricing
+1121,Decentralized Identity
+1122,QR Code Generator
+1123,SaaS Spend Management
+1124,Game Engine
+1125,Assisted Living
+1126,Other Agriculture
+1127,Other Security Services
+1128,Print On Demand
+1129,Label Printing
+1130,Print Fulfillment Services
+1131,Business Music
+1132,Project Management Tools
+1133,Postal Presort
+1134,Marketo LaunchPoint Apps
+1135,Other Customer Service
+1136,Returns Management
+1137,Web Data Providers
+1138,Immigration
+1139,Legal Practice Management
+1140,Legal Billing
+1141,E-Filing
+1142,Conflict Check
+1143,Accounting Practice Management
+1144,Public Affairs and Advocacy
+1145,Other SAP Resellers
+1146,NetSuite Resellers
+1147,FinancialForce Consulting
+1148,DevOps Platforms
+1149,Build Automation
+1150,Application Portfolio Management
+1151,Enterprise Architecture Tools
+1152,Server Virtualization
+1153,Managed Detection and Response (MDR)
+1154,Desktop Search
+1155,Display Ad Design
+1156,Converged Infrastructure
+1157,Archive Storage Solutions
+1158,Audio Editing
+1159,Other Design
+1160,Application Server
+1161,Identity Threat Detection and Response (ITDR)
+1162,Job Board
+1163,Blogger Outreach
+1164,Columnar Databases
+1165,Cloud Infrastructure Automation
+1166,Unified Threat Management (UTM)
+1167,Storage Servers
+1168,Tower Servers
+1169,HR Service Delivery
+1170,Natural Language Understanding (NLU)
+1171,Nonprofit Payment Gateway
+1172,Digital Audio Advertising
+1173,Security Awareness Training
+1174,Academic Advising
+1175,VR SDK
+1176,Java Web Frameworks
+1177,Virtual Routers
+1178,Utilization Management
+1179,Variable Data Printing (VDP)
+1180,Payments Orchestration
+1181,Account-Based Data
+1182,Quote-to-Cash
+1183,Proposal
+1184,CPQ
+1185,Food Safety Management
+1186,Smart Cities
+1187,Fleet Maintenance
+1188,Calibration
+1189,Asset Leasing
+1190,Oil and Gas Asset Management
+1191,Oil and Gas Back Office
+1192,Warehouse Management
+1193,Optometry
+1194,RDF Databases
+1195,School Management
+1196,Education ERP Suites
+1197,Insurance Claims Management
+1198,Vineyard Management
+1199,Mobile Development Platforms
+1200,Oil Production
+1201,Yard Management
+1202,Digital Banking Platforms
+1203,Oil and Gas Project Management
+1204,Other Education
+1205,Education Finance Software
+1206,Artificial Neural Network
+1207,Host Analytics Channel Partners
+1208,Marketing Analytics Services
+1209,Quote-to-Cash Consulting
+1210,User Experience (UX) Design Services
+1211,HR Consulting
+1212,Financial Consulting
+1213,Python Integrated Development Environments (IDE)
+1214,Knowledge Base
+1215,Medication Dispensing
+1216,Sports Marketing Intelligence
+1217,Board Management
+1218,Citizen Engagement
+1219,API Generation
+1220,Workplace Innovation Platforms
+1221,Venture Capital Management
+1222,C/C++ Integrated Development Environments (IDE)
+1223,Java Integrated Development Environments (IDE)
+1224,Restaurant Business Intelligence \u0026 Analytics
+1225,Email Archiving
+1226,Mining
+1227,Geology and Seismic
+1228,ALM Software Suites
+1229,Digital Accessibility Tools
+1230,PHP Integrated Development Environments (IDE)
+1231,PHP Web Frameworks
+1232,Frontline Worker Communication Platforms
+1233,Route Planning
+1234,Electronic Trial Master File (eTMF)
+1235,PR CRM
+1236,Online Newsroom
+1237,Bot Platforms
+1238,Cloud DDoS Mitigation
+1239,DDoS Protection
+1240,Sales Platforms
+1241,Data Labeling Services
+1242,Customer Identity and Access Management (CIAM)
+1243,Risk-Based Authentication (RBA)
+1244,Passwordless Authentication
+1245,Content Marketing Agencies
+1246,Retail IoT
+1247,Requirements Management
+1248,Home Care Agency Management
+1249,Vacation Rental
+1250,Restaurant Management
+1251,Library Management Systems
+1252,Container Networking
+1253,Storage
+1254,Mobile App Development
+1255,IBM Storage VARs
+1256,Other Services
+1257,File Reader
+1258,Data Warehouse Automation
+1259,Technical Skills Screening
+1260,Energy Management
+1261,Clinical Documentation
+1262,Lease Accounting
+1263,Work Management
+1264,3PL
+1265,Multicarrier Parcel Management Solutions
+1266,Office 365 Management
+1267,CAD Libraries
+1268,Specification Management
+1269,Inventory Management
+1270,AR WYSIWYG Editor
+1271,Augmented Reality
+1272,AR Content Management Systems
+1273,AR Training Simulator
+1274,Industrial AR Platforms
+1275,Gallery Management
+1276,Collections Management
+1277,Blockchain Payments
+1278,Blockchain Platforms
+1279,Medical 3D Visualization
+1280,Other Automotive
+1281,Healthcare Integration Engines
+1282,Static Code Analysis
+1283,Network Access Control (NAC)
+1284,Other Integrated Development Environments (IDE)
+1285,Google Workspace for Finance
+1286,Dental Imaging
+1287,Fabric Interconnects
+1288,Industrial Switching
+1289,LAN Switches
+1290,Data Center Switches
+1291,Google Workspace Utilities
+1292,Social Media Marketing (SMM) Companies
+1293,Shopify Marketing Experts
+1294,Amazon Marketing Services
+1295,Freelancer Management Systems
+1296,Vendor Management
+1297,Clinical Communication and Collaboration
+1298,Digital Customer Service Platforms
+1299,Financial Risk Management
+1300,Association Management
+1301,Other IT Security
+1302,Education HR
+1303,PDF Editor
+1304,Online Learning Platform
+1305,Venue Management
+1306,Advanced Planning and Scheduling (APS)
+1307,Investor Reporting
+1308,Investor Relationship Management
+1309,Health Care Credentialing
+1310,Healthcare Risk Management
+1311,Healthcare Learning Management Systems (LMS)
+1312,Runbook Automation
+1313,Court Management
+1314,Smart Link
+1315,Web Design
+1316,Online Appointment Scheduling
+1317,Core Banking
+1318,Hard Drive Partitioning
+1319,Account-Based Marketing Consulting
+1320,Sales Planning
+1321,Mobile Marketing Companies
+1322,Screen and Video Capture
+1323,Certificate Lifecycle Management (CLM)
+1324,SSL \u0026 TLS Certificates
+1325,SaaS Operations Management
+1326,Meter Data Management Systems
+1327,RFP
+1328,Q\u0026A Platforms
+1329,Other Vertical Industry
+1330,Other Sage Resellers
+1331,Church Website Builder
+1332,All-Flash Arrays (AFA)
+1333,Online Proctoring
+1334,Business Plan Consulting
+1335,Revenue Operations Services
+1336,Mobility Consulting
+1337,IoT Edge Platforms
+1338,Treasury Management Systems
+1339,Church Presentation
+1340,Google Workspace Teacher Resources
+1341,Employee Referral
+1342,Insurance Policy Administration Systems
+1343,Underwriting \u0026 Rating
+1344,Data Entry Services
+1345,PDF SDKs
+1346,Screenwriting
+1347,Newsroom Management Systems 
+1348,Cryptocurrency Wallets
+1349,Solar Design
+1350,Integrated Workplace Management Systems (IWMS)
+1351,Microsegmentation
+1352,File Analysis
+1353,Video CMS
+1354,Video Hosting
+1355,Video Editing
+1356,Video Communications
+1357,Equity Management
+1358,Remittance \u0026 Money Transfer
+1359,Password Policy Enforcement
+1360,Legal Research
+1361,Text to Speech
+1362,Microsoft Office 365 Resellers
+1363,Microsoft Dynamics 365 Resellers
+1364,Microsoft Azure Resellers
+1365,Other Solution Consulting
+1366,Shopify Web Developers
+1367,AI Development Services
+1368,Wearable App Development
+1369,Audio Engine
+1370,AI Image Generators
+1371,Corporate Social Responsibility (CSR)
+1372,Food Traceability
+1373,Logistics Intelligence
+1374,Customer Advocacy
+1375,Rewards and Incentives
+1376,Managed Workplace Services (MWS)
+1377,Emergency Management
+1378,Critical Event Management (CEM) Platforms
+1379,API Documentation Management
+1380,Kanban Project Management
+1381,Smart Buildings
+1382,Call Center Infrastructure (CCI)
+1383,Outsourced Sales Providers
+1384,Contact Center Outsourcing Services
+1385,Drift Consulting
+1386,Managed Live Chat
+1387,Foodservice Management
+1388,Nonprofit Consulting
+1389,Other Oracle Resellers
+1390,Masonry
+1391,Property Restoration
+1392,Roofing
+1393,WYSIWYG Editors
+1394,Recruitment Platforms
+1395,Absence Management
+1396,DevSecOps\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+1397,Pest Control
+1398,Study Tools
+1399,Audience Response
+1400,Cash Flow Management
+1401,Urban Planning and Design
+1402,Landscape Design
+1403,Patient Scheduling
+1404,Medical Staff Scheduling
+1405,Construction Management
+1406,Insurance Compliance
+1407,Mental Health
+1408,Value-Based Reimbursement
+1409,Referral Management
+1410,Other Marine
+1411,Employee Scheduling
+1412,Call Compliance
+1413,Virtual Career Fair Platforms
+1414,Unified Communication VARs
+1415,Cisco Hardware Resellers
+1416,Managed IoT Services
+1417,SAP BusinessObjects Resellers
+1418,Cloud Computing Platforms
+1419,Work Instructions
+1420,Account-Based Direct Mail
+1421,Vendor-Neutral Archives (VNA)
+1422,Integrated Revenue and Customer Management (IRCM) for CSPs
+1423,HIPAA Compliant Messaging
+1424,Cloud Directory Services
+1425,Other Construction
+1426,Mobile Banking
+1427,Project-Based ERP
+1428,Digital Employee Experience (DEX) Management
+1429,Exit Interview Management
+1430,Offboarding
+1431,Google Workspace Development Tools
+1432,Load Testing Tools
+1433,Digital Rights Management (DRM)
+1434,DNS Security Solutions
+1435,Other Law Enforcement
+1436,Retail Media Advertising Platforms
+1437,E-Commerce Development
+1438,Contact Center
+1439,Other Medical Services
+1440,Machine Translation
+1441,Press Release Distribution
+1442,API Marketplace
+1443,Picking
+1444,Animation
+1445,Cloud Kitchen Management
+1446,Restaurant Inventory Management
+1447,Video Platform as a Service (VPaaS)
+1448,Training Management Systems
+1449,Data Clean Room
+1450,Other Transportation
+1451,Financial Aid Software
+1452,Scholarship Management
+1453,Language Learning
+1454,Reseller Hosting
+1455,Shared Hosting
+1456,CMS Tools
+1457,Installment Payment and Buy Now Pay Later (BNPL)
+1458,CAD Data Exchange
+1459,Mobile Crash Reporting
+1460,Cloud Storage
+1461,Location Platform
+1462,Coaching
+1463,UiPath Consulting
+1464,Website Design
+1465,Parks and Recreation
+1466,Decision-Making
+1467,Automotive Marketing
+1468,Automotive Digital Retailing
+1469,Container Engine
+1470,Banking as a Service (BaaS)
+1471,Risk Assessment
+1472,Hospice
+1473,Supply Chain Business Networks
+1474,Marketplace
+1475,Virtual IT Labs
+1476,Web Client Accelerator
+1477,Web Accelerator
+1478,Business Scheduling
+1479,.NET Integrated Development Environments (IDE)
+1480,Mobile Attribution
+1481,Email Signature
+1482,Paid Search Intelligence
+1483,360 Feedback Tools
+1484,Third-Party Logistics
+1485,Other Legal
+1486,Multi-level Marketing (MLM)
+1487,Other Veterinary
+1488,Other Real Estate
+1489,Sales Training and Onboarding
+1490,Sweepstakes
+1491,Audio Conferencing
+1492,Payment Card Issuance
+1493,Note-Taking Management
+1494,Training \u0026 Development
+1495,Government Procurement
+1496,Online Proofing
+1497,Creative Portfolio Management
+1498,Design Systems
+1499,MPM and MbM Technology for Process Manufacturing
+1500,HVAC
+1501,Foodservice Distribution
+1502,Programmatic Job Advertising
+1503,Precision Agriculture
+1504,Athletic Competition Management
+1505,Analytics Tools \u0026 Software
+1506,AR SDK
+1507,AR Collaboration Tools
+1508,VR Collaboration
+1509,Project Cost Management
+1510,Visual Product Customization
+1511,Visual Configuration
+1512,Fire Department
+1513,Microsoft Dynamics CRM Resellers
+1514,SharePoint Resellers
+1515,Microsoft Dynamics AX Resellers
+1516,Student Information Systems (SIS)
+1517,Crime Analytics
+1518,Large Language Models (LLMs)
+1519,AI Code Generation
+1520,Account-Based Execution
+1521,Tax Credit Providers
+1522,Other Health Care
+1523,Help Authoring Tool (HAT)
+1524,VR Visualization
+1525,Other Development Services
+1526,Global Employment Platforms (GEP)
+1527,Employer of Record (EOR)
+1528,Technology Review Platforms
+1529,Patient Identity Resolution
+1530,Wireframing
+1531,Software Design Platforms
+1532,Vaccine Tracking
+1533,Other Oil and Gas
+1534,Driving School
+1535,Sales Tools
+1536,Security and Privacy Services
+1537,3D Printing
+1538,Network Detection and Response (NDR)
+1539,VR Content Management Systems
+1540,Prequalification
+1541,Fixed Income Pricing Data
+1542,Package Tracking
+1543,Classroom Messaging
+1544,Patch Management
+1545,Client Onboarding
+1546,Leadership Training
+1547,Physical Security
+1548,Exploration
+1549,Oil and Gas Engineering
+1550,Drupal Development
+1551,Apparel Business Management and ERP
+1552,Website Accessibility Plugins
+1553,Drug Discovery
+1554,Rental Payment
+1555,Simulation and Test Suite
+1556,Takeoff
+1557,Feature Management
+1558,Configuration Management
+1559,Infrastructure Asset Management
+1560,Patient Relationship Management (PRM)
+1561,Digital Advertising Tech
+1562,Google Workspace Communication Tools
+1563,Brand Asset Management
+1564,Protective Intelligence Platforms
+1565,Intellectual Property Management
+1566,Hotel Reservations
+1567,Radiology Information Systems
+1568,SAP HANA Resellers
+1569,Other Infor Resellers
+1570,Infor Distribution SX.e Resellers
+1571,Infor Distribution FACTS Resellers
+1572,Public Records Management
+1573,Patent Research
+1574,Jewelry Store Management
+1575,Other Hosting Services
+1576,Smart Utilities
+1577,Other Utilities
+1578,Other Travel Arrangement
+1579,Personal Training
+1580,Equipment Rental
+1581,Other Conversion Rate Optimization
+1582,Earthworks
+1583,Telemedicine
+1584,IoT Management
+1585,Public Safety
+1586,Other Marketing Services
+1587,Desktop Publishing
+1588,Martial Arts
+1589,Gym Management
+1590,Studio Management
+1591,Tax \u0026 Revenue Collection
+1592,Process ERP
+1593,Other Government
+1594,Pet Grooming
+1595,Contractor Payments
+1596,Social Networks
+1597,Blockchain Analysis Tools
+1598,Blockchain Security
+1599,Website Change Monitoring
+1600,Photo Management
+1601,Other Business Finance
+1602,Dynamic Yield Consulting
+1603,Website Screenshot
+1604,Web Developers
+1605,Calendar
+1606,Mobile App Testing
+1607,Load Board
+1608,Other Life Sciences
+1609,Oil and Gas Simulation and Modeling
+1610,Academic Scheduling
+1611,Awards Management
+1612,Portals
+1613,409A Valuations Providers
+1614,Font Management
+1615,Benefits Support
+1616,Content Writing Services
+1617,Internet Service Providers (ISPs)
+1618,Google Workspace for Sales
+1619,Google Workspace Business Tools
+1620,Digital Credential Management
+1621,Foreign Exchange
+1622,Blog Writing Services
+1623,Content Editing Services
+1624,Graphic Design Services
+1625,Java Development Tools
+1626,WordPress Developers
+1627,Mind Mapping
+1628,Legal Transaction Management
+1629,Digital Accessibility Platforms
+1630,Digital Governance
+1631,Job Shop Management
+1632,ETO ERP
+1633,Property \u0026 Casualty Policy Administration Systems
+1634,Mortgage CRM
+1635,Managed SIEM Services
+1636,Other Mobile Development
+1637,Investment Accounting
+1638,Contact Center Knowledge Base
+1639,Other Creative Services
+1640,Unknown
+1641,Interview Scheduling
+1642,Other Public Relations
+1643,Marketing Calendar
+1644,Experiential Marketing Agencies
+1645,Python and Django Developers
+1646,Other Dental
+1647,Car Rental
+1648,Pharmaceutical Distribution
+1649,E-Prescribing
+1650,Virtual Classroom
+1651,B2B Services Review Platforms
+1652,Enterprise Social Networking (ESN)
+1653,Benefits Consulting
+1654,Crowd Testing Tools
+1655,Healthcare HR
+1656,Microsoft Dynamics GP Resellers
+1657,Microsoft Dynamics SL Resellers
+1658,SAP Business All-in-One Resellers
+1659,GRC Tools
+1660,Earned Wage Access
+1661,Live Blog
+1662,Live Stream
+1663,IoT Operating Systems
+1664,Bundled Pay Management
